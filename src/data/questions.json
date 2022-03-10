@@ -1,0 +1,52 @@
+[
+    {
+        "title": " What do you call a computer on a network that requests files from another computer? ",
+        "options": [
+            "A client",
+            "A host",
+            "A router",
+            "A web server"
+        ],
+        "correctOptionIndex": "0"
+    },
+    {
+        "title": " Hardware devices that are not part of the main computer system and are often added later to the system. ",
+        "options": [
+            "Execute",
+            "Clip art",
+            "Highlight",
+            "Peripheral"
+        ],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title": " Google (www.google.com) is a: ",
+        "options": [
+            "Directory of images",
+            "Number in Math",
+            "Search Engine",
+            "Chat service on the web"
+        ],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": " Which is not an Internet protocol? ",
+        "options": [
+            "HTTP",
+            "FTP",
+            "STP",
+            "IP"
+        ],
+        "correctOptionIndex": "2"
+    },
+   {
+        "title": " 'www' stands for: ",
+        "options": [
+            "World Wide Wares",
+            "World Wide Wait",
+            "World Wide Web",
+            "World Wide War"
+        ],
+        "correctOptionIndex": "2"
+    }
+]
